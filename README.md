@@ -1,12 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 Framer Motion App Learning
 
-Currently, two official plugins are available:
+A beginner-friendly project to learn and experiment with **animations** using **Framer Motion** in a **React + Vite** environment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is meant to explore modern animation techniques for UI components like transitions, layout shifts, entrances/exits, drag effects, and more.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- ⚛️ React 19
+- ⚡ Vite
+- 🎥 Framer Motion 12
+- ✅ TypeScript (optional)
+- 🔍 ESLint
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/framer-motion-app-learning.git
+cd framer-motion-app-learning
